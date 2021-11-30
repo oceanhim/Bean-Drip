@@ -1,0 +1,74 @@
+{
+    "monsters" : [    
+        {
+            "name" : "Snob",
+            "health" : 100,
+            "maxHealth" : 100,
+            "damage" : 20,
+            "defense" : 10,
+            "race" : "Goblin",
+            "level" : 1,
+            "reward" : {
+                "beans" : 100,
+                "xp" : 10,
+                "items" : ["Dagger"]
+            }
+        },
+        {
+            "name" : "Gorkush",
+            "health" : 200,
+            "maxHealth" : 200,
+            "damage" : 50,
+            "defense" : 45,
+            "race" : "Orc",
+            "level" : 3,
+            "reward" : {
+                "beans" : 300,
+                "xp" : 70,
+                "items" : ["Blunt Sword"]
+            }
+        },
+        {
+            "name" : "Guntra",
+            "health" : 400,
+            "maxHealth" : 400,
+            "damage" : 100,
+            "defense" : 80,
+            "race" : "Orge",
+            "level" : 6,
+            "reward" : {
+                "beans" : 7000,
+                "xp" : 400,
+                "items" : ["Steel Mace"]
+            }
+        },
+        {
+            "name" : "Scourge",
+            "health" : 300,
+            "maxHealth" : 300,
+            "damage" : 200,
+            "defense" : 300,
+            "race" : "Human",
+            "level" : 10,
+            "reward" : {
+                "beans" : 15000,
+                "xp" : 500,
+                "items" : ["Knight Armor"]
+            }
+        },
+        {
+            "name" : "Viper",
+            "health" : 700,
+            "maxHealth" : 700,
+            "damage" : 300,
+            "defense" : 300,
+            "race" : "Dragon",
+            "level" : 14,
+            "reward" : {
+                "beans" : 30000,
+                "xp" : 1000,
+                "items" : ["Dragon Scale Armor"]
+            }
+        }
+    ]
+}
